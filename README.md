@@ -46,10 +46,3 @@
   <img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div><br>
 
-
-<div align="center">
-  
-   ![Snake animation](https://github.com/theiv767/theiv767/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
