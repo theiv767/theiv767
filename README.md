@@ -1,17 +1,9 @@
 <div>
   
   <h1 align="center">
-    Sou 
     <a href="https://www.linkedin.com/in/davi-barbosa-69259723b/">Davi Barbosa</a>
   </h1>
   
-</div>
-
-<div align="center">
-  <a href="https://github.com/theiv767">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=theiv767&show_icons=true&theme=tokyonight"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theiv767&layout=compact&theme=tokyonight"/>
-  </a>
 </div>
 
 <div align="center" valign="top"><br>
