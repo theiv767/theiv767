@@ -5,18 +5,6 @@
     <a href="https://www.linkedin.com/in/davi-barbosa-69259723b/">Davi Barbosa</a>
   </h1>
   
-  <p align="center">
-    Sou um estudante de Ciência da Computação e gosto muito de tecnologias, programação e desenvolvimento
-  </p>
-  
-  <p align="center">
-    No momento estou a procura de novas vagas/oportunidades de emprego
-  </p>
-  
-  <p align="center">
-    Segue ai! 🤙
-  </p>
-  
 </div>
 
 <div align="center">
